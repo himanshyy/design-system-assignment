@@ -23,6 +23,10 @@ Click the link below to view the live Storybook documentation:
 
 🔗 [Live Storybook](https://680759a83d8a6039a2b22dac-yytujrdhqo.chromatic.com/?path=/docs/configure-your-project--docs)
 
+📷 Screenshots
+![Screenshot 2025-04-22 145646](https://github.com/user-attachments/assets/9f47d997-2b8c-47f0-a53b-8fe617a3d059)
+
+
 ## 📁 Installation & Setup
 
 ```bash
@@ -31,8 +35,6 @@ cd design-system-assignment
 npm install
 npm run storybook
 
-📷 Screenshots
-![Screenshot 2025-04-22 145646](https://github.com/user-attachments/assets/9f47d997-2b8c-47f0-a53b-8fe617a3d059)
 
 
 
